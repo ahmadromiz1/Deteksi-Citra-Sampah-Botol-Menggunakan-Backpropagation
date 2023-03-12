@@ -1,19 +1,9 @@
+# Deteksi Citra Sampah Botol
+![image](https://user-images.githubusercontent.com/107112321/224566077-c10cdd8c-b5f0-4e4f-b010-31188ae5b1e1.png)
+![image](https://user-images.githubusercontent.com/107112321/224566090-ebeb0ea2-ced1-4cc1-bef6-5e700876039b.png)
+
+
 # model_performance_app
-
-# Watch the tutorial video
-
-[How to Build a Machine Learning Model Performance Calculator App](https://youtu.be/Ge17mZe54dY)
-
-<a href="https://youtu.be/Ge17mZe54dY"><img src="http://img.youtube.com/vi/Ge17mZe54dY/0.jpg" alt="How to Build a Machine Learning Model Performance Calculator App" title="How to Build a Machine Learning Model Performance Calculator App" width="400" /></a>
-
-# Demo
-
-Launch the web app:
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/dataprofessor/model_performance_app/main/app.py)
-
-# Reproducing this web app
-To recreate this web app on your own computer, do the following.
 
 ### Create conda environment
 Firstly, we will create a conda environment called *performance*
