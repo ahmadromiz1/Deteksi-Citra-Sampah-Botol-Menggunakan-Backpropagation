@@ -3,17 +3,6 @@
 ![image](https://user-images.githubusercontent.com/107112321/224566090-ebeb0ea2-ced1-4cc1-bef6-5e700876039b.png)
 
 
-# model_performance_app
-
-### Create conda environment
-Firstly, we will create a conda environment called *performance*
-```
-conda create -n performance python=3.7.9
-```
-Secondly, we will login to the *performance* environement
-```
-conda activate performance
-```
 ### Install prerequisite libraries
 
 Download requirements.txt file
@@ -36,3 +25,11 @@ Download and unzip contents from https://github.com/dataprofessor/model_performa
 ```
 streamlit run app.py
 ```
+
+```
+streamlit==0.71.0
+pandas==1.1.3
+base58==2.0.1
+pillow==8.0.1
+scikit-learn==0.23.2
+````
